@@ -69,11 +69,8 @@ Main Libraries:
 * `opencv-python`
 * `mediapipe`
 * `tensorflow`
-* `gtts`
-* `tkinter` (built-in with Python on most systems)
+* `pyttsx3`
 * `numpy`
-* `Pillow`
-
 ---
 
 ## 💡 Use Cases
